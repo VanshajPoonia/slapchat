@@ -1,4 +1,6 @@
-# APP deployed on [https://snapchat.webaiz.com]
+# APP deployed on [https://snapchat-12dbe.web.app]
+![Snapchat](https://user-images.githubusercontent.com/74147463/138559612-fd799884-b13f-4a51-9c94-1149f9c9dea5.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
